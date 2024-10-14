@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./DeepRL_HW2/deeprl_hw2_src/deeprl_hw2"
+    ]
+}
